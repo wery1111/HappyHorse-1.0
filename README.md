@@ -173,12 +173,10 @@ Where this page discusses **why** those design choices may explain leaderboard l
 
 1. Artificial Analysis Text to Video Leaderboard: https://artificialanalysis.ai/embed/text-to-video-leaderboard/leaderboard/text-to-video  
 2. Artificial Analysis Image to Video Leaderboard: https://artificialanalysis.ai/video/leaderboard/image-to-video  
-3. Happy Horse public technical overview: https://happyhorses.io/
-
+3. Happy Horse public technical overview: [https://tryhappyhorse.com/](https://tryhappyhorse.com/)
 ## Try It
 
 If you want to explore the product experience around AI video generation, visit:
 
 - [https://tryhappyhorse.com/](https://tryhappyhorse.com/)
-- [https://tryhappyhorse.com/pricing](https://tryhappyhorse.com/pricing)
 
